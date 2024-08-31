@@ -1,4 +1,4 @@
-# Automatic Classification of Tickets
+# Self Classification of Tickets
 
 
 # Customer Complaints Classifier
