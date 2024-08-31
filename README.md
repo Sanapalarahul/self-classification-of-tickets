@@ -1,1 +1,0 @@
-# self-classification-of-tickets
